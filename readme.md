@@ -5,6 +5,15 @@
 
 ## How to use:
 
+use the **makefile** !!!
+
+```bash
+make all
+```
+
+
+OR (make your life harder xD)
+
 create a big file:
 ```bash
 fallocate -l 1G bigobject.txt
